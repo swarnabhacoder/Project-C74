@@ -5,7 +5,7 @@ body{
     border:1px solid lightgrey;
 }
 .travel_mainDiv img{
-    width:100%;
+    width:60%;
 }
 .travel_mainDiv h5, .travel_mainDiv p{
     margin:20px;
